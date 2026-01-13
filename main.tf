@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "hk_bucket" {
-  bucket = "hongkong"  # Must be globally unique
+  bucket = "mobile1038g"  # Must be globally unique
   
 }
 
